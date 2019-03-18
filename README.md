@@ -10,7 +10,7 @@
 
 # data-science-ipython-notebooks
 
-## Index
+## Index-TETS
 
 * [deep-learning](#deep-learning)
     * [tensorflow](#tensor-flow-tutorials)
