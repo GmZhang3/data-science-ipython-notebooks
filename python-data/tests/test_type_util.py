@@ -1,5 +1,9 @@
+import sys
+sys.path.append("..") # Adds higher directory to python modules path.
+import os
+print os.getcwd()
 from nose.tools import assert_equal
-from ..type_util import TypeUtil
+from type_util import TypeUtil
 
 
 class TestUtil():
